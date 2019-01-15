@@ -1,0 +1,22 @@
+{
+  "name": "crossfit-buddy",
+  "version": "1.0.0",
+  "description": "A restful apis for crossfit ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "crossfit"
+  ],
+  "author": "anton polosin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
